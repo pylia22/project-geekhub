@@ -1,0 +1,2 @@
+INSERT INTO users (id, first_name, last_name, email, password, login, role_id) VALUES (101, 'User', 'John', 'johm@gmail.com', '$2a$10$Ccwalsay.iRQ.dLk.xV2hOot5qdT7vaJbnrlDjjeCrVqQDT8h/Tum', 'user', 1);
+INSERT INTO users (id, first_name, last_name, email, password, login, role_id) VALUES (102, 'Admin', 'Black', 'admin@gmail.com', '$2a$10$0okOH0wptqxNCyreORUE/.BwGp5ncoJQ9UbKDfo876ZgmkTzmPIwq', 'admin', 2);
